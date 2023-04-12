@@ -4,6 +4,11 @@ hide:
   - toc
 ---
 
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8581054198315884"
+     crossorigin="anonymous"></script>
+</head>
+
 # Accueil
 
 ---
@@ -36,8 +41,15 @@ En travaillant avec Terminal, vous pouvez être sûr que vous travaillerez avec 
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8581054198315884"
-     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8581054198315884"
+     data-ad-slot="1519463556"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ---
 
