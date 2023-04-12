@@ -182,7 +182,7 @@ theme:
     # | - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-scheme              |
     # |                                                                                                    |
     # +----------------------------------------------------------------------------------------------------+
-    scheme: 'slate'
+    scheme: slate
     
     # +----------------------------------------------------------------------------------------------------+
     # |                                                                                                    |
@@ -401,6 +401,14 @@ theme:
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 extra:
+
+  alternate:
+    - name: Frençais
+      link: https://nowre.github.io/
+      lang: fr
+    - name: Español
+      link: /es/
+      lang: es
 
   consent:
     cookies:

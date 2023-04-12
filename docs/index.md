@@ -14,7 +14,7 @@ hide:
 
 Chez Terminal, nous sommes fiers de notre expertise dans la création de sites web sur mesure en utilisant MkDocs, une technologie de pointe qui garantit des sites rapides, sécurisés et conviviaux. Nous sommes convaincus que travailler avec nous présente de nombreux avantages :
 
-![Image title](https://online.visual-paradigm.com/repository/images/9b564a2e-8207-43cb-93d9-1d3cc1017f5c/technology-illustration-design/website-development-illustration.png){ width="550", align=right}
+![Image title](./images/site.png){ width="550", align=right}
 
 1. **Expertise :fontawesome-solid-computer: :** Notre équipe de professionnels expérimentés possède une vaste expérience dans la création de sites web pour des clients de toutes tailles et de toutes industries. 
 
