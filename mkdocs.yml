@@ -327,6 +327,8 @@ theme:
   # +------------------------------------------------------------------------------------------------------+
   icon:
     logo: material/text-shadow
+
+  #favicon: ./docs/images/logo.png
   
   # +------------------------------------------------------------------------------------------------------+
   # |                                                                                                      |
@@ -461,27 +463,9 @@ extra:
       link: https://github.com/Nowre/IAmMus.git
     - icon: fontawesome/brands/twitter
       link: https://fosstodon.org/@squidfunk
-  # +------------------------------------------------------------------------------------------------------+
-  # |                                                                                                      |
-  # | Allows you to hide the "Made with Material for MkDocs" text in the footer of the pages by setting    |
-  # | this to "true".                                                                                      |
-  # |                                                                                                      |
-  # | Read More:                                                                                           |
-  # | - https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice          |
-  # |                                                                                                      |
-  # +------------------------------------------------------------------------------------------------------+
+
   generator: false
   
-  # +------------------------------------------------------------------------------------------------------+
-  # |                                                                                                      |
-  # | The "manifest" option allows you to define a .manifest file to use.                                  |
-  # |                                                                                                      |
-  # | A .manifest file makes the doc act like a web-application and tells it how to behave when installed. |
-  # |                                                                                                      |
-  # | Read More:                                                                                           |
-  # | - https://squidfunk.github.io/mkdocs-material/reference/meta-tags/#adding-a-web-app-manifest         |
-  # |                                                                                                      |
-  # +------------------------------------------------------------------------------------------------------+
   #manifest: manifest.webmanifest
   
   # +------------------------------------------------------------------------------------------------------+

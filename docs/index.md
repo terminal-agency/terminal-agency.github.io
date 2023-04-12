@@ -36,6 +36,11 @@ En travaillant avec Terminal, vous pouvez être sûr que vous travaillerez avec 
 
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8581054198315884"
+     crossorigin="anonymous"></script>
+
+---
+
 ??? question "Mkdocs :simple-markdown:"
 
     MkDocs est un outil de création de sites web statiques qui permet de produire des sites web modernes, rapides et sécurisés. Avec notre expertise, nous pouvons créer pour vous un site web professionnel et attractif qui répondra à tous vos besoins.
