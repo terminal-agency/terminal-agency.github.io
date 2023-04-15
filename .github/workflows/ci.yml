@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master 
-      - defaut
+      - main
 permissions:
   contents: write
 jobs:
