@@ -8,7 +8,7 @@ hide:
 
 ---
 
-## Bienvenue chez notre agence de création de sites web spécialisée dans l'utilisation de MkDocs ! :smile: 22
+## Bienvenue chez notre agence de création de sites web spécialisée dans l'utilisation de MkDocs ! :smile:
 
 ---
 
