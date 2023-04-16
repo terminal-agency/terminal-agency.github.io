@@ -9,7 +9,7 @@ hide:
 
 **Si la question est: "Analysez l'expression de l'interrogation dans cette phrase."**
 
-« Que me font ces vallons, ces palais, ces chaumières, Vains objets dont pour moi le charme est envolé ? »
+*« Que me font ces vallons, ces palais, ces chaumières, Vains objets dont pour moi le charme est envolé ? »*
 
 - C'est tout d'abord une phrase interrogative directe, marquée par la point d'interrogation en fin de phrase
 
@@ -22,7 +22,7 @@ hide:
 - La fonction de « Que » est COD du verbe « font »
 
 
-« Est-il rien de plus bizarre que ma destinée ? »
+*« Est-il rien de plus bizarre que ma destinée ? »*
 
 - C'est d'abord une phrase interrogative directe car elle se termine par un point d'interrogation.
 
