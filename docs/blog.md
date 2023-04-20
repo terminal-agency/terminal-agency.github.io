@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Création de documentation avec MkDocs et le thème Material : une solution élégante pour votre entreprise
+# Création de documentation avec MkDocs et le thème Material : une solution élégante pour votre entreprise :material-language-markdown-outline:
 
 La documentation est essentielle pour toute entreprise qui souhaite fournir à ses clients des instructions claires et précises sur ses produits et services. MkDocs est une plate-forme de documentation open source qui permet de créer des sites web statiques à partir de fichiers de documentation écrits en Markdown. Avec le thème Material, vous pouvez créer une documentation élégante et moderne qui donnera à votre entreprise un aspect professionnel. Dans cet article, nous allons examiner pourquoi la création de documentation avec MkDocs et le thème Material est une solution idéale pour votre entreprise.
 
