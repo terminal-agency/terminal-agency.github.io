@@ -95,7 +95,7 @@ nav:
   - Accueil: index.md
   - À propos: apropos.md
   - Services: services.md
-  - Témognages: temognages.md
+  #- Témognages: temognages.md
   - Blog: blog.md
   - Contact: contact.md
 
@@ -534,7 +534,9 @@ markdown_extensions:
   - pymdownx.superfences:
   - pymdownx.tabbed:
       alternate_style: true 
-  #- pymdownx.tasklist:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   #- pymdownx.tilde:
 
   - attr_list
