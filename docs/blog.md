@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-<figure maekdown>
+<figure markdown>
 
 # Création de documentation avec MkDocs et le thème Material : une solution élégante pour votre entreprise :material-language-markdown-outline:
 
